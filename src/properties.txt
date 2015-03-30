@@ -1,0 +1,4 @@
+maze.wall_percentage = 40
+maze.maze_implementation_class_name = maze.EllerMaze
+maze.maze_path_implementation_class_name = maze.WaveMazePath
+main_frame.title = Maze generator and path finder
